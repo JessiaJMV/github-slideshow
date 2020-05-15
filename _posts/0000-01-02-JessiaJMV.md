@@ -2,7 +2,7 @@ import numpy as np
 
 #   MÉTODO DE ESQUINA NOROESTE
 
-def Método_Esquina_Noroeste(oferta, demanda):
+:)
     oferta_copy = oferta.copy()
     demanda_copy = demanda.copy()
     i = 0
